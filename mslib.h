@@ -27,8 +27,8 @@ extern "C" {
 
 #include "llist.h"
 
-#define PEAK_THRESHOLD	500
-#define PEAK_OFFSET	3
+#define PEAK_THRESHOLD	5000
+#define PEAK_OFFSET	1
 
 #define MAX_BITSTREAM_LEN 1024
 
